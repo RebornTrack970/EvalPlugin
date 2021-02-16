@@ -2,7 +2,7 @@ package eval;
 
 import io.anuke.arc.util.*;
 import io.anuke.mindustry.entities.type.*;
-import io.anuke.mindustry.plugin.*;
+import io.anuke.mindustry.*;
 
 public class EvalPlugin extends Plugin{
     private static final int maxLength = 1024;
